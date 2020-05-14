@@ -21,7 +21,7 @@ _NOTE: This version of sbt requires JDK8 or JDK11 to be installed in order to ex
 ## Running this test scenario
 
 - Boot up keycloak server.
-  Steps to this can be found in the [keycloak installation guide](https://www.keycloak.org/docs/4.8/getting_started/index.html#_install-boot)
+  Steps to this can be found in the [keycloak installation guide](https://www.keycloak.org/docs/4.8/getting_started/index.html#_install-boot).
 
 - Locate this github project from your terminal and run command `sbt`.
   This should configure the classpath and project settings to your workstation.
