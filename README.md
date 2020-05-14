@@ -1,4 +1,4 @@
-# Basic Keycloak Gatling Loadtest
+# Basic Keycloak Gatling Load Test
 
 This project is a basic gatling integration for loadtesting keycloak logins.
 
